@@ -2,8 +2,13 @@
 
 <div id="header" align="center">
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrejustinnn&count_private=true&show_icons=true&theme=dark" /> -->
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andrejustinnn&theme=light&background=ffffff" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andrejustinnn&theme=icegray&hide_border=true" />
 </div>
+
+<div id="header" align="center">
+  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=andrejustinnn&count=1" />
+</div>
+
 
 
 <!--
