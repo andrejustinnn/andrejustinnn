@@ -4,7 +4,7 @@
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrejustinnn&count_private=true&show_icons=true&theme=dark" /> -->
 <!--   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andrejustinnn&hide_border=true" /> -->
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrejustinnn&theme=nord_dark"/>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/andrejustinnn/count.svg" />
 </div>
 
 <!-- <div id="header" align="center">
