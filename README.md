@@ -26,4 +26,3 @@ Sunday                   8 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- START_SECTION:ascii_graph -->
 
 <!-- END_SECTION:ascii_graph -->
-`Stats manually update, Of course not.`
