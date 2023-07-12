@@ -22,7 +22,8 @@ Sunday                   8 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
-`Stats automatically update.`
+
 <!-- START_SECTION:ascii_graph -->
 
 <!-- END_SECTION:ascii_graph -->
+`Stats manually update, Of course not.`
